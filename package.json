@@ -1,6 +1,10 @@
 {
   "name": "json-logic-eval-local",
   "version": "0.0.1",
+  "repository" : {
+      "type" : "git",
+      "url" : "https://github.com/kamsi/json-logic-eval.git"
+  },
   "description": "Evaluates JSON for boolean result",
   "devDependencies": {
     "tad": "0.2.3"
